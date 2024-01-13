@@ -1,0 +1,24 @@
+* {
+    background-color: rgb(250, 241, 228);
+    font-family: 'Tahoma', sans-serif;
+    font-size: 16px;
+}
+
+h1{
+    font-size: 24px;
+}
+
+.des {
+    font-size: large;
+}
+
+.des.expl {
+    font-size: 18px;
+    font-style: italic;
+
+}
+
+img{
+    height: 375px;
+    width: auto;
+}
